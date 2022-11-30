@@ -18,17 +18,19 @@ Stack : Methods:
 4- isEmpty: To check if stack is isEmpty
 ===========================================================
 */
+
 const int MAX_SIZE =100;
+template<class t>
 class stack{
     int top;
-    int item[MAX_SIZE];
+    t item[MAX_SIZE];
 public:
 //@desc Constructor to give the top initial value
     stack(){
         top=-1;
     }
 //@desc Method to push element to stack
-    void push(int Element){
+    void push(t Element){
         if(top>=MAX_SIZE-1){
             cout<<"Stack is full on push";
         }else{
@@ -53,7 +55,7 @@ bool isEmpty(){
         }
     }
 //@desc Method to pop element with saving element value
-    void popWithSave(int&Element){
+    void popWithSave(t&Element){
         if (isEmpty()){
             cout<<"Stack is empty on pop";
         }else{
@@ -62,7 +64,7 @@ bool isEmpty(){
         }
     }
 //@desc Method to get the top Element
-    void pop(int&stackTop){
+    void pop(t&stackTop){
         if (isEmpty()){
             cout<<"Stack is empty on get top";
         }else{
@@ -84,7 +86,7 @@ bool isEmpty(){
     }
 };
 int main() {
-    stack myStack;
+    stack<int>myStack;
     myStack.push(5);
     myStack.push(10);
     myStack.push(12);
