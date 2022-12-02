@@ -10,14 +10,42 @@
 
 <h4><div style="color:lightgreen;">Data Structure:</div> is a specialized format for organizing, processing, retrieving and storing data. </h4>
 
-<h2 style="color:#FF7000;">Topics</h2>
+<h3 align="center">Topics</h3>
 
-<ul style="color:#10A19D; font-weight:bold; font-size:20px"> 
-<li>Stack with array</li>
-<li>Stack with linked list</li>
-<li>balanced parenthesis problem using stack</li>
-<li>Infix To Postfix using stack</li>
-<li>Queue using circular array</li>
-<li>Queue using linked list</li>
-<li>Array based list</li>
-</ul>
+###
+
+<h4 align="left">1- Stack with array</h4>
+
+###
+
+<h4 align="left">2- Stack with linked list</h4>
+
+###
+
+<h4 align="left">3- balanced parenthesis problem using stack</h4>
+
+###
+
+<h4 align="left">4- Infix To Postfix using stack</h4>
+
+###
+
+<h4 align="left">5- Queue using circular array</h4>
+
+###
+
+<h4 align="left">6- Queue using linked list</h4>
+
+###
+
+<h4 align="left">7- Array based list</h4>
+
+###
+
+<h4 align="left">8- Array-based list with linear search and set concept</h4>
+
+###
+
+<h4 align="left">9- Linked List full implementation with search.</h4>
+
+###
