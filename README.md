@@ -61,3 +61,7 @@
 <h4 align="left">12- Binary Search Tree.</h4>
 
 ###
+
+<h4 align="left">13- Selection Sort.</h4>
+
+###
