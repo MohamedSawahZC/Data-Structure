@@ -53,3 +53,11 @@
 <h4 align="left">10- Doubly Linked List.</h4>
 
 ###
+
+<h4 align="left">11- Binary Search.</h4>
+
+###
+
+<h4 align="left">12- Binary Search Tree.</h4>
+
+###
