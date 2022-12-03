@@ -49,3 +49,7 @@
 <h4 align="left">9- Linked List full implementation with search.</h4>
 
 ###
+
+<h4 align="left">10- Doubly Linked List.</h4>
+
+###
