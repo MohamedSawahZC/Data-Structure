@@ -65,3 +65,31 @@
 <h4 align="left">13- Selection Sort.</h4>
 
 ###
+
+<h4 align="left">14- Bubble Sort.</h4>
+
+###
+
+<h4 align="left">15- Insertion Sort.</h4>
+
+###
+
+<h4 align="left">16- Merge Sort.</h4>
+
+###
+
+<h4 align="left">17- Quick Sort.</h4>
+
+###
+
+<h4 align="left">18- Heap Sort.</h4>
+
+###
+
+<h4 align="left">19- Linear Search.</h4>
+
+###
+
+<h4 align="left">20- Binary Search.</h4>
+
+###
